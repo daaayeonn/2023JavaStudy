@@ -18,7 +18,7 @@ public class E01OneDimArray01 {
 		numArr[0] = 10;
 		numArr[1] = 20;
 		numArr[2] = 30;
-		//인덱스로 접근하여 할당된 값을 ㅜㅊㄹ력한다.
+		//인덱스로 접근하여 할당된 값을 출력한다.
 		System.out.println("numArr의 0번방의 값:"+ numArr[0]);
 		System.out.println("numArr의 1번방의 값:"+ numArr[1]);
 		System.out.println("numArr의 2번방의 값:"+ numArr[2]);
