@@ -1,4 +1,4 @@
-package ex12inheritance.map;
+package ex12inheritance;
 
 /*
  다형성(Polymorphism)
