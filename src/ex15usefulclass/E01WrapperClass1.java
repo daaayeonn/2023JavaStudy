@@ -15,7 +15,7 @@ public class E01WrapperClass1 {
 		int result = num1 + num2;
 		System.out.println("result="+ result);
  
-		/* 
+		/*
 		JDK1.4 이전의 코딩형태
 		기본자료형을 박싱 처리한 인스턴스에 대해서 산술연산을 진행할때
 		언박싱을 위해 intValue()와 같은 메소드를 호출해야 한다. 
