@@ -1,11 +1,13 @@
 package common;
 
+// 부모 클래스 정의
 public class Person {
 	
 	// 멤버변수
 	private String name;
 	private int age;
 	
+	// 생성자
 	public Person(String name, int age) {
 		super();
 		this.name = name;
@@ -25,6 +27,7 @@ public class Person {
 	public void setAge(int age) {
 		this.age = age;
 	}
+	
 	//객체의 정보를 반환
 	@Override
 	public String toString() {
